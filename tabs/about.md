@@ -8,6 +8,6 @@ title: About
 # MIT License
 ---
 
-I'm a fifth year Dual Degree (B.Tech + Masters by Research) in Computer Science at the [International Institute of Information Technology Hyderabad](https://www.iiit.ac.in/) advised by [Prof. Kamalakar Karlapalem](https://faculty.iiit.ac.in/~kamal/). I'm broadly interested in problems within the intersection of Data Systems and Statistics (simply going by the courses I've taken). I'm currently exploring the area of Uncertain Data Management. 
+I'm a fifth year Dual Degree (B.Tech + Masters by Research) student in Computer Science at the [International Institute of Information Technology Hyderabad](https://www.iiit.ac.in/) advised by [Prof. Kamalakar Karlapalem](https://faculty.iiit.ac.in/~kamal/). I'm broadly interested in problems within the intersection of Data Systems and Statistics (simply going by the courses I've taken). I'm currently exploring the area of Uncertain Data Management. 
 
 You can find a link to my resume [here](https://jayitha.github.io/Resume/resume.pdf)
