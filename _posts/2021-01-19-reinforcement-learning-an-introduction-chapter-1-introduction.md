@@ -2,7 +2,7 @@
 title: ! "Reinforcement Learning: An Introduction - Chapter 1 Introduction"
 author: Jayitha C
 date: 2021-01-19 11:33:00 +0800
-categories: [Reinforcement Learning, "Reinforcement Learning: An Introduction"]
+categories: [Reinforcement Learning, "Reinforcement Learning An Introduction"]
 tags: [textbook, machine learning]
 math: true
 image: /assets/img/RL_system.jpg
