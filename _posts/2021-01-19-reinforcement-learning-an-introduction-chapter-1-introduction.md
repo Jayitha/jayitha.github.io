@@ -5,10 +5,28 @@ date: 2021-01-19 11:33:00 +0800
 categories: [Reinforcement Learning]
 tags: [textbook]
 math: true
-image: /assets/img/sample/devices-mockup.png
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+
+This is the first in a series of posts which summarises chapters from the following book
+
+> "Reinforcement Learning: An Introduction" Second Edition, by Richard S. Sutton and Andrew G. Barto. 
+
+---
+
+## What is Reinforcement Learning?
+
+It is learning what to do such that a numerical reward is maximised. It learns the mapping from situation to action by performing a trial-and-error search. Many times actions taken might not _just_ affect the immediate reward but might also affect subsequenct rewards (something akin to local and global optimum). 
+
+> Both trial-and-error search and delayerd reward characterize _refinforcement learning_
+
+Reinforcement Learning is different from  
+
+- _supervised learning_ - In interactive problems (which are what learning agents are more often present in), it might not be possible to get labeled data allowing the agent to learn which the right actions should be. The agent should be able to learn from it's own experience. 
+
+- _unsupervised learning_ - While reinforcement learning doesn't rely on labelled "correct" data, it tries to learn situation-action mapping that maximizes a reward rather than just trying to find structure in unlabelled data (which is what the unsupervised paradigm tries to do)
+
+$$ \text{\texttt{MACHINE LEARNING}} = \begin{cases} \text{\texttt{SUPERVISED LEARNING}}\\ \text{\texttt{UNSUPERVISED LEARNING}}\\ \text{\texttt{REINFORCEMENT LEARNING}} \end{cases} $$
 
 
 ## Titles
