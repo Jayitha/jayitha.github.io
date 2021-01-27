@@ -1,15 +1,14 @@
 ---
-title: ! "Reinforcement Learning: An Introduction - Chapter 1 Introduction"
+title: ! "The Sigma-Neighborhood Skyline Queries"
 author: Jayitha C
-date: 2021-01-19 11:33:00 +0800
-categories: [Reinforcement Learning, "Reinforcement Learning An Introduction"]
-tags: [textbook, machine learning]
+date: 2021-01-20 11:33:00 +0800
+categories: [Paper Summaries]
+tags: [skyline, data analytics]
 math: true
 image: /assets/img/RL_system.jpg
 ---
 
-
-This is the first in a [series](https://jayitha.github.io/categories/reinforcement-learning-an-introduction/) of posts which partly summarize chapters from the following book
+This is the first in a series of posts which partly summarize chapters from the following book
 
 > "Reinforcement Learning: An Introduction" Second Edition, by Richard S. Sutton and Andrew G. Barto. 
 
