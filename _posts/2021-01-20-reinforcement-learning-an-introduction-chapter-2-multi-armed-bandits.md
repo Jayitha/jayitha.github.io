@@ -5,6 +5,7 @@ date: 2021-01-20 11:33:00 +0800
 categories: [Reinforcement Learning, "Reinforcement Learning An Introduction", "Tabular Solution Methods"]
 tags: [textbook, machine learning]
 math: true
+publish: false
 ---
 
 This is the second in a [series](https://jayitha.github.io/categories/reinforcement-learning-an-introduction/) of posts which partly summarize chapters from the following book

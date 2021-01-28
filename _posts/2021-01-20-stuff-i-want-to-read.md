@@ -4,6 +4,7 @@ author: Jayitha C
 date: 2021-01-20 11:33:00 +0800
 categories: [Paper Summaries]
 math: true
+pin: true
 ---
 
 I just needed a place to put down all the papers I wanted to summarize and books I want to read
