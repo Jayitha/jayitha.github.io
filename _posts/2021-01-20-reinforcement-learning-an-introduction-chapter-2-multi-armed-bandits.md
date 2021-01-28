@@ -8,6 +8,8 @@ math: true
 publish: false
 ---
 
+Incomplete
+
 This is the second in a [series](https://jayitha.github.io/categories/reinforcement-learning-an-introduction/) of posts which partly summarize chapters from the following book
 
 > "Reinforcement Learning: An Introduction" Second Edition, by Richard S. Sutton and Andrew G. Barto. 

@@ -8,6 +8,8 @@ math: true
 image: /assets/img/RL_system.jpg
 ---
 
+Incomplete
+
 This is the first in a series of posts which partly summarize chapters from the following book
 
 > "Reinforcement Learning: An Introduction" Second Edition, by Richard S. Sutton and Andrew G. Barto. 

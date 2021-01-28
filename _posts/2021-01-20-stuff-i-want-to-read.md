@@ -9,6 +9,8 @@ pin: true
 
 I just needed a place to put down all the papers I wanted to summarize and books I want to read
 
+## Papers
+
 | Paper | Status |
 |:---|:---|
 |Patki, Neha. **The Synthetic Data Vault: generative modeling for relational databases.** Diss. Massachusetts Institute of Technology, 2016. | Pending |
@@ -26,6 +28,8 @@ I just needed a place to put down all the papers I wanted to summarize and books
 | Trummer, Immanuel, and Christoph Koch. "**Multi-objective parametric query optimization.**" The VLDB Journal 26.1 (2017): 107-124. | Pending |
 | Weike Pan, Qiang Yang, Charu Aggarwal and Christoph Koch. **Big Data**. Guest Editors' Introduction, Special Issue on Big Data, IEEE Intelligent Systems (1541-1672), 32(2):7-8, March 2017. | Pending |
 
+
+## Books
 
 Books I want to read 
 
