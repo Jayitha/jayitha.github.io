@@ -9,6 +9,8 @@ pin: true
 
 I just needed a place to put down all the papers I wanted to summarize and books I want to read
 
+$$ \newcommand{\E}{\mathop{\mathbb{E}}} $$
+
 ## Papers
 
 | Paper | Status |
